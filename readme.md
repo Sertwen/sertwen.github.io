@@ -22,9 +22,9 @@
 
 ## 文件管理
 - MT管理器
-[https://mt2.cn/download/]
+(https://mt2.cn/download/)
 - 质感文件
-[https://github.com/zhanghai/MaterialFiles/releases/]
+(https://github.com/zhanghai/MaterialFiles/releases/)
 
 ## 输入法
 - 手心输入法
