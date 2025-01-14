@@ -1,8 +1,10 @@
 # 类原生补全计划
 
 ## 浏览器
-- via
+- Via
 https://viayoo.com/zh-cn/
+- Firefox
+https://www.apkmirror.com/apk/mozilla/firefox/
 
 ## 音乐
 - APlayer
@@ -15,9 +17,11 @@ https://github.com/Moriafly/SaltPlayerSource/releases
 https://www.apkmirror.com/apk/amazon-india/mx-player/
 - Reex
 https://gitee.com/lntls/reex/releases/
+- VLC
+https://www.videolan.org/vlc/download-android.html
 
 ## 文件管理
-- MT2
+- MT管理器
 https://mt2.cn/download/
 - 质感文件
 https://github.com/zhanghai/MaterialFiles/releases
@@ -47,7 +51,7 @@ https://www.coolapk.com/apk/io.zhuliang.pipphotos
 https://github.com/mihonapp/mihon/releases
 - 阅读
 https://github.com/gedoor/legado/releases
-- 小米文档阅读器
+- 小米文档查看器
 https://apkcombo.app/zh/%E5%B0%8F%E7%B1%B3%E6%96%87%E6%A1%A3%E6%9F%A5%E7%9C%8B%E5%99%A8-wps%E5%AE%9A%E5%88%B6/cn.wps.moffice_eng.xiaomi.lite/
 
 ## 天气
