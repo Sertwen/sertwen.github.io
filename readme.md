@@ -50,7 +50,7 @@
 	- [https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk](https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk)
 - 应用汇
 	- [Official Website](http://www.appchina.com)
-- Aurora Store `Unofficial GooglePlayStore Client`
+- Aurora Store `Unofficial Google Play Client`
 	- [GitLab Releases](https://gitlab.com/AuroraOSS/AuroraStore/-/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.aurora.store/)
 - Droid-ify `Unofficial F-Droid Client`
@@ -85,7 +85,7 @@
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/org.breezyweather/)
 
 ## 地图
-- 白马地图
+- Bmap 白马地图
 	- [Official Website](https://bmaps.cn/index.html)
 - Google Maps
 	- [APKMirror](https://www.apkmirror.com/apk/google-inc/maps)
@@ -95,47 +95,37 @@
 - Magisk
 	- [GitHub Releases](https://github.com/topjohnwu/Magisk/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.topjohnwu.magisk/)
-
 - Thanox
 	- [GitHub Releases](https://github.com/Tornaco/Thanox/releases)
-
 - Dhizuku
 	- [GitHub Releases](https://github.com/iamr0s/Dhizuku/releases)
-
 - Shizuku
 	- [GitHub Releases](https://github.com/RikkaApps/Shizuku/releases)
-
 - App Ops
 	- [GitHub Releases](https://github.com/RikkaApps/App-Ops-issue-tracker/releases)
-
 - SAI
 	- [GitHub Releases](https://github.com/Aefyr/SAI/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.aefyr.sai.fdroid/)
-
 - Hail 雹
 	- [GitHub Releases](https://github.com/aistra0528/Hail/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.aistra.hail/)
-
 - 小黑屋
 	- [Official Website](https://stopapp.https.gs)
-
 - Island 炼妖壶
 	- [GitHub Releases](https://github.com/oasisfeng/island/releases)
-
+- KDE Connect
+	- [F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)
 - FV悬浮球
 	- [Official Website](https://www.fooview.com)
 	- [CoolApk](https://www.coolapk.com/apk/com.fooview.android.fooview)
-
 - Libchecker
 	- [GitHub Releases](https://github.com/LibChecker/LibChecker/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.absinthe.libchecker/)
-
 - DevCheck
 	- [APKMirror](https://www.apkmirror.com/apk/flar2/devcheck-system-info)
-
 - v2rayNG
 	- [GitHub Releases](https://github.com/2dust/v2rayNG/releases)
-
+--------
 - NikGapps
 	- [SourceForge](https://sourceforge.net/projects/nikgapps/files/Releases)
 	
