@@ -50,10 +50,10 @@
 	- [https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk](https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk)
 - 应用汇
 	- [Official Website](http://www.appchina.com)
-- Aurora Store `Unofficial Google Play Client`
+- Aurora Store<sup>`Unofficial Google Play Client`</sup>
 	- [GitLab Releases](https://gitlab.com/AuroraOSS/AuroraStore/-/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.aurora.store/)
-- Droid-ify `Unofficial F-Droid Client`
+- Droid-ify<sup>`Unofficial F-Droid Client`</sup>
 	- [GitHub Releases](https://github.com/Droid-ify/client/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.looker.droidify)
 
