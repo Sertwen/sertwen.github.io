@@ -76,7 +76,7 @@
 ## 阅读
 - Mihon
 	- [GitHub Releases](https://github.com/mihonapp/mihon/releases)
-	- 小米文档查看器
+- 小米文档查看器
 	- [APKCombo](https://apkcombo.app/zh/%E5%B0%8F%E7%B1%B3%E6%96%87%E6%A1%A3%E6%9F%A5%E7%9C%8B%E5%99%A8-wps%E5%AE%9A%E5%88%B6/cn.wps.moffice_eng.xiaomi.lite)
 - 阅读
 	- [GitHub Releases](https://github.com/gedoor/legado/releases)
