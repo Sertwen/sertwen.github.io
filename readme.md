@@ -101,6 +101,9 @@
 	- [Gitee Releases](https://gitee.com/10miaomiao/bilimiao2/releases)
 	- [GitHub Releases](https://github.com/10miaomiao/bilimiao2/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.a10miaomiao.bilimiao/)
+- CatShare
+	- [GitHub Release](https://github.com/kmod-midori/CatShare/releases)
+	- [F-Droid](https://f-droid.org/zh_Hans/packages/moe.reimu.catshare/)
 - DevCheck
 	- [APKMirror](https://www.apkmirror.com/apk/flar2/devcheck-system-info)
 - Dhizuku
@@ -162,3 +165,9 @@
 	- [CoolApk/F-Droid]()
 	- [APKMirror/APKCombo]()
 	- [Other]()
+
+--------
+
+## F-Droid 清华镜像
+
+https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB
