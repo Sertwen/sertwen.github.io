@@ -1,4 +1,4 @@
-# 类原生补全计划
+# [类原生补完计划](https://sertwen.github.io/)
 
 ## 浏览器
 - Chrome
@@ -14,6 +14,7 @@
 	- [Official Website](https://www.aimp.ru/?do=download&os=android)
 - APlayer
 	- [GitHub Releases](https://github.com/rRemix/APlayer/releases)
+	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/remix.myplayer)
 - 椒盐音乐
 	- [GitHub Releases](https://github.com/Moriafly/SaltPlayerSource/releases)
 	- [CoolApk](https://www.coolapk.com/apk/com.salt.music)
@@ -108,6 +109,7 @@
 	- [APKMirror](https://www.apkmirror.com/apk/flar2/devcheck-system-info)
 - Dhizuku
 	- [GitHub Releases](https://github.com/iamr0s/Dhizuku/releases)
+	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.rosan.dhizuku)
 - FV悬浮球
 	- [Official Website](https://www.fooview.com)
 	- [CoolApk](https://www.coolapk.com/apk/com.fooview.android.fooview)
@@ -127,17 +129,23 @@
 - NewPipe
 	- [GitHub Releases](https://github.com/TeamNewPipe/NewPipe/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/org.schabi.newpipe/)
+- Obtainium
+	- [GitHub Release](https://github.com/ImranR98/Obtainium/releases)
+	- [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)
 - PiliPalaX
 	- [GitHub Release](https://github.com/orz12/PiliPalaX/releases)
 - PixEz
 	- [GitHub Releases](https://github.com/Notsfsssf/pixez-flutter/releases)
+	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.perol.pixez)
 - SAI
 	- [GitHub Releases](https://github.com/Aefyr/SAI/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.aefyr.sai.fdroid/)
 - Shizuku
 	- [GitHub Releases](https://github.com/RikkaApps/Shizuku/releases)
+	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/moe.shizuku.privileged.api)
 - Thanox
 	- [GitHub Releases](https://github.com/Tornaco/Thanox/releases)
+	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/github.tornaco.android.thanos)
 - v2rayNG
 	- [GitHub Releases](https://github.com/2dust/v2rayNG/releases)
 - 小黑屋
@@ -146,7 +154,7 @@
 --------
 
 - CaptiveMgr清除x和! 3.2
-	- [Bing Search](https://cn.bing.com/search?q=captivemgr+3.2)
+	- [Bing Search](https://bing.com/search?q=captivemgr+3.2)
 - Google System Webview
 	- [APKMirror](https://www.apkmirror.com/apk/google-inc/android-system-webview/)
 - Lineage System Webview
@@ -162,7 +170,7 @@
 - AAA
 	- [Official Website]()
 	- [GitHub/GitLab/Gitee Releases]()
-	- [CoolApk/F-Droid]()
+	- [CoolApk/F-Droid/IzzyOnDroid<sup>`F-Droid Repository`</sup>]()
 	- [APKMirror/APKCombo]()
 	- [Other]()
 
@@ -170,4 +178,4 @@
 
 ## F-Droid 清华镜像
 
-https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB
+[https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB](https://mirrors.tuna.tsinghua.edu.cn/fdroid/repo/?fingerprint=43238D512C1E5EB2D6569F4A3AFBF5523418B82E0A3ED1552770ABB9A9C9CCAB)
