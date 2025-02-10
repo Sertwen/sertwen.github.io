@@ -3,6 +3,8 @@
 ## 浏览器
 - Chrome
 	- [APKMirror](https://www.apkmirror.com/apk/google-inc/chrome/)
+- Fennec<sup>`Firefox F-Droid`</sup>
+	- [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
 - Firefox
 	- [APKMirror](https://www.apkmirror.com/apk/mozilla/firefox)
 - Via
@@ -93,50 +95,29 @@
 - Google Maps
 	- [APKMirror](https://www.apkmirror.com/apk/google-inc/maps)
 
---------
+## ROOT
+- APatch
+	- [GitHub Releases](https://github.com/bmax121/APatch/releases)
+	- [F-Droid](https://f-droid.org/zh_Hans/packages/me.bmax.apatch/)
+- KernelSU
+	- [GitHub Releases](https://github.com/tiann/KernelSU/releases)
+- KernelSU Next
+	- [GitHub Releases](https://github.com/rifsxd/KernelSU-Next/releases)
+- Magisk
+	- [GitHub Releases](https://github.com/topjohnwu/Magisk/releases)
+	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.topjohnwu.magisk/)
 
-## 其他
+## 折腾
 - App Ops
 	- [GitHub Releases](https://github.com/RikkaApps/App-Ops-issue-tracker/releases)
-- bilimiao
-	- [Gitee Releases](https://gitee.com/10miaomiao/bilimiao2/releases)
-	- [GitHub Releases](https://github.com/10miaomiao/bilimiao2/releases)
-	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.a10miaomiao.bilimiao/)
-- CatShare
-	- [GitHub Release](https://github.com/kmod-midori/CatShare/releases)
-	- [F-Droid](https://f-droid.org/zh_Hans/packages/moe.reimu.catshare/)
-- DevCheck
-	- [APKMirror](https://www.apkmirror.com/apk/flar2/devcheck-system-info)
 - Dhizuku
 	- [GitHub Releases](https://github.com/iamr0s/Dhizuku/releases)
 	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.rosan.dhizuku)
-- FV悬浮球
-	- [Official Website](https://www.fooview.com)
-	- [CoolApk](https://www.coolapk.com/apk/com.fooview.android.fooview)
 - Hail 雹
 	- [GitHub Releases](https://github.com/aistra0528/Hail/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.aistra.hail/)
 - Island 炼妖壶
 	- [GitHub Releases](https://github.com/oasisfeng/island/releases)
-- KDE Connect
-	- [F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)
-- Libchecker
-	- [GitHub Releases](https://github.com/LibChecker/LibChecker/releases)
-	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.absinthe.libchecker/)
-- Magisk
-	- [GitHub Releases](https://github.com/topjohnwu/Magisk/releases)
-	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.topjohnwu.magisk/)
-- NewPipe
-	- [GitHub Releases](https://github.com/TeamNewPipe/NewPipe/releases)
-	- [F-Droid](https://f-droid.org/zh_Hans/packages/org.schabi.newpipe/)
-- Obtainium
-	- [GitHub Release](https://github.com/ImranR98/Obtainium/releases)
-	- [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)
-- PiliPalaX
-	- [GitHub Release](https://github.com/orz12/PiliPalaX/releases)
-- PixEz
-	- [GitHub Releases](https://github.com/Notsfsssf/pixez-flutter/releases)
-	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.perol.pixez)
 - SAI
 	- [GitHub Releases](https://github.com/Aefyr/SAI/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.aefyr.sai.fdroid/)
@@ -146,10 +127,43 @@
 - Thanox
 	- [GitHub Releases](https://github.com/Tornaco/Thanox/releases)
 	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/github.tornaco.android.thanos)
-- v2rayNG
-	- [GitHub Releases](https://github.com/2dust/v2rayNG/releases)
 - 小黑屋
 	- [Official Website](https://stopapp.https.gs)
+
+
+--------
+
+## 其他
+- bilimiao
+	- [Gitee Releases](https://gitee.com/10miaomiao/bilimiao2/releases)
+	- [GitHub Releases](https://github.com/10miaomiao/bilimiao2/releases)
+	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.a10miaomiao.bilimiao/)
+- CatShare
+	- [GitHub Releases](https://github.com/kmod-midori/CatShare/releases)
+	- [F-Droid](https://f-droid.org/zh_Hans/packages/moe.reimu.catshare/)
+- DevCheck
+	- [APKMirror](https://www.apkmirror.com/apk/flar2/devcheck-system-info)
+- FV悬浮球
+	- [Official Website](https://www.fooview.com)
+	- [CoolApk](https://www.coolapk.com/apk/com.fooview.android.fooview)
+- KDE Connect
+	- [F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/)
+- Libchecker
+	- [GitHub Releases](https://github.com/LibChecker/LibChecker/releases)
+	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.absinthe.libchecker/)
+- NewPipe
+	- [GitHub Releases](https://github.com/TeamNewPipe/NewPipe/releases)
+	- [F-Droid](https://f-droid.org/zh_Hans/packages/org.schabi.newpipe/)
+- Obtainium
+	- [GitHub Releases](https://github.com/ImranR98/Obtainium/releases)
+	- [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)
+- PiliPalaX
+	- [GitHub Releases](https://github.com/orz12/PiliPalaX/releases)
+- PixEz
+	- [GitHub Releases](https://github.com/Notsfsssf/pixez-flutter/releases)
+	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.perol.pixez)
+- v2rayNG
+	- [GitHub Releases](https://github.com/2dust/v2rayNG/releases)
 
 --------
 
