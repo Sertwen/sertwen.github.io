@@ -1,9 +1,27 @@
 # [类原生补完计划](https://sertwen.github.io/)
 
+--------
+
+- CaptiveMgr清除x和! 3.2
+	- [Bing Search](https://bing.com/search?q=captivemgr+3.2)
+- Google System Webview
+	- [APKMirror](https://www.apkmirror.com/apk/google-inc/android-system-webview/)
+- Lineage System Webview
+	- [APKMirror](https://www.apkmirror.com/apk/lineageos/android-system-webview-2/)
+
+--------
+
+- NikGapps
+	- [SourceForge](https://sourceforge.net/projects/nikgapps/files/Releases)
+- OpenGapps
+	- [SourceForge](https://sourceforge.net/projects/opengapps/files/arm64/20220503/)
+
+--------
+
 ## 浏览器
 - Chrome
 	- [APKMirror](https://www.apkmirror.com/apk/google-inc/chrome/)
-- Fennec<sup>`Firefox F-Droid`</sup>
+- Fennec<sup>`Firefox F-Droid Version`</sup>
 	- [F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/)
 - Firefox
 	- [APKMirror](https://www.apkmirror.com/apk/mozilla/firefox)
@@ -101,8 +119,6 @@
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/me.bmax.apatch/)
 - KernelSU
 	- [GitHub Releases](https://github.com/tiann/KernelSU/releases)
-- KernelSU Next
-	- [GitHub Releases](https://github.com/rifsxd/KernelSU-Next/releases)
 - Magisk
 	- [GitHub Releases](https://github.com/topjohnwu/Magisk/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.topjohnwu.magisk/)
@@ -129,7 +145,6 @@
 	- [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/github.tornaco.android.thanos)
 - 小黑屋
 	- [Official Website](https://stopapp.https.gs)
-
 
 --------
 
@@ -165,20 +180,6 @@
 - v2rayNG
 	- [GitHub Releases](https://github.com/2dust/v2rayNG/releases)
 
---------
-
-- CaptiveMgr清除x和! 3.2
-	- [Bing Search](https://bing.com/search?q=captivemgr+3.2)
-- Google System Webview
-	- [APKMirror](https://www.apkmirror.com/apk/google-inc/android-system-webview/)
-- Lineage System Webview
-	- [APKMirror](https://www.apkmirror.com/apk/lineageos/android-system-webview-2/)
-
---------
-
-- NikGapps
-	- [SourceForge](https://sourceforge.net/projects/nikgapps/files/Releases)
-	
 --------
 
 - AAA
