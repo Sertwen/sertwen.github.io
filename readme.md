@@ -56,6 +56,17 @@
 	- [GitHub Releases](https://github.com/zhanghai/MaterialFiles/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/me.zhanghai.android.files/)
 
+## 文件分享
+- CatShare
+	- [GitHub Releases](https://github.com/kmod-midori/CatShare/releases)
+	- [F-Droid](https://f-droid.org/zh_Hans/packages/moe.reimu.catshare/)
+- LocalSend
+	- [GitHub Releases](https://github.com/localsend/localsend/releases)
+	- [F-Droid](https://f-droid.org/zh_Hans/packages/org.localsend.localsend_app/)
+- 文件闪传
+	- [Official Website](https://www.xiaolifaa.com/)
+	- [CoolApk](https://www.coolapk.com/apk/app.eleven.com.fastfiletransfer)
+
 ## 输入法
 - Gboard
 	- [APKMirror](https://www.apkmirror.com/apk/google-inc/gboard)
@@ -153,9 +164,6 @@
 	- [Gitee Releases](https://gitee.com/10miaomiao/bilimiao2/releases)
 	- [GitHub Releases](https://github.com/10miaomiao/bilimiao2/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.a10miaomiao.bilimiao/)
-- CatShare
-	- [GitHub Releases](https://github.com/kmod-midori/CatShare/releases)
-	- [F-Droid](https://f-droid.org/zh_Hans/packages/moe.reimu.catshare/)
 - DevCheck
 	- [APKMirror](https://www.apkmirror.com/apk/flar2/devcheck-system-info)
 - FV悬浮球
