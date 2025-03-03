@@ -86,11 +86,11 @@
 - Droid-ify<sup>`Unofficial F-Droid Client`</sup>
 	- [GitHub Releases](https://github.com/Droid-ify/client/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.looker.droidify)
-- 酷安 9.1.1
-	- [https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk](https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk)
 - Obtainium
 	- [GitHub Releases](https://github.com/ImranR98/Obtainium/releases)
 	- [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)
+- 酷安 9.1.1
+	- [https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk](https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk)
 
 ## 设备信息
 - DevCheck
