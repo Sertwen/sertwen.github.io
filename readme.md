@@ -79,7 +79,7 @@
 	- [Official Website](https://www.xinshuru.com)
 	- [CoolApk](https://www.coolapk.com/apk/com.xinshuru.inputmethod)
 
-## 应用商店
+## 应用更新
 - Aurora Store<sup>`Unofficial Google Play Client`</sup>
 	- [GitLab Releases](https://gitlab.com/AuroraOSS/AuroraStore/-/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.aurora.store/)
@@ -88,8 +88,20 @@
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.looker.droidify)
 - 酷安 9.1.1
 	- [https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk](https://github.com/Coolapk-Fan/HistoryVersions/blob/master/history/v9.1.1.apk)
-- 应用汇
-	- [Official Website](http://www.appchina.com)
+- Obtainium
+	- [GitHub Releases](https://github.com/ImranR98/Obtainium/releases)
+	- [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)
+
+## 设备信息
+- DevCheck
+	- [APKMirror](https://www.apkmirror.com/apk/flar2/devcheck-system-info)
+- Device Info HW
+	- [APKMirror](https://www.apkmirror.com/apk/andrey-efremov/device-info-hw/)
+- Treble Info
+	- [GitLab Releases](https://gitlab.com/TrebleInfo/TrebleInfo/-/releases)
+	- [F-Droid](https://f-droid.org/packages/tk.hack5.treblecheck/)
+- 隐秘参数
+	- [GitHub Releases](https://github.com/x1y9/x1y9.github.io/releases/tag/com.x1y9.probe)
 
 ## 日历
 - Fossify 日历
@@ -164,8 +176,6 @@
 	- [Gitee Releases](https://gitee.com/10miaomiao/bilimiao2/releases)
 	- [GitHub Releases](https://github.com/10miaomiao/bilimiao2/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.a10miaomiao.bilimiao/)
-- DevCheck
-	- [APKMirror](https://www.apkmirror.com/apk/flar2/devcheck-system-info)
 - FV悬浮球
 	- [Official Website](https://www.fooview.com)
 	- [CoolApk](https://www.coolapk.com/apk/com.fooview.android.fooview)
@@ -177,9 +187,6 @@
 - NewPipe
 	- [GitHub Releases](https://github.com/TeamNewPipe/NewPipe/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/org.schabi.newpipe/)
-- Obtainium
-	- [GitHub Releases](https://github.com/ImranR98/Obtainium/releases)
-	- [F-Droid](https://f-droid.org/packages/dev.imranr.obtainium.fdroid/)
 - PiliPalaX
 	- [GitHub Releases](https://github.com/orz12/PiliPalaX/releases)
 - PixEz
