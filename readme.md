@@ -146,6 +146,16 @@
 	- [GitHub Releases](https://github.com/topjohnwu/Magisk/releases)
 	- [F-Droid](https://f-droid.org/zh_Hans/packages/com.topjohnwu.magisk/)
 
+## 数据备份
+- DataBackup
+	- [GitHub Releases](https://github.com/XayahSuSuSu/Android-DataBackup/releases)
+	- [F-Droid](https://f-droid.org/packages/com.xayah.databackup.foss/)
+- Neo Backup
+	- [GitHub Releases](https://github.com/NeoApplications/Neo-Backup/releases)
+	- [F-Droid](https://f-droid.org/packages/com.machiav3lli.backup/)
+- Swift Backup
+	- [APKMirror](https://www.apkmirror.com/apk/swiftapps-org/swift-backup/)
+
 ## 折腾
 - App Ops
 	- [GitHub Releases](https://github.com/RikkaApps/App-Ops-issue-tracker/releases)
@@ -197,6 +207,12 @@
 
 --------
 
+## Magisk/Xposed Modules
+- [LSPosed](https://github.com/LSPosed/LSPosed/releases)
+- [CorePatch](https://github.com/LSPosed/CorePatch/releases)
+- [Sui](https://github.com/RikkaApps/Sui/releases)
+
+--------
 - AAA
 	- [Official Website]()
 	- [GitHub/GitLab/Gitee Releases]()
